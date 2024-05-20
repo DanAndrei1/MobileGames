@@ -1,11 +1,9 @@
-Privacy Policy for FORMULA CAR RACE 2024
-Last updated: May 20, 2024
+Privacy Policy for <b>FORMULA CAR RACE 2024</b><br></br>Last updated: May 20, 2024
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.<br></br>
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
-
 Interpretation and Definitions
+
 Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
@@ -18,11 +16,11 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to FORMULA CAR RACE 2023, the software program provided by the Company.
+Application refers to FORMULA CAR RACE 2024, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to FORMULA CAR RACE 2023.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dan-Andrei Cojocaru.
 
-Country refers to: Romania
+Country refers to Romania
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -44,11 +42,10 @@ Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 Usage Data
-Usage Data
 
 Usage Data is collected automatically when using the Service.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), the time and date of Your visit, unique device identifiers and other diagnostic data.
 
 When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 
@@ -60,13 +57,9 @@ The Company may use Personal Data for the following purposes:
 
 To provide and maintain our Service, including to monitor the usage of our Service.
 
-To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-
 For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
 
 To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-
-To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
 
 To manage Your requests: To attend and manage Your requests to Us.
 
@@ -77,11 +70,17 @@ For other purposes: We may use Your information for other purposes, such as data
 We may share Your personal information in the following situations:
 
 With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
+
 For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+
 With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+
 With business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.
+
 With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+
 With Your consent: We may disclose Your personal information for any other purpose with Your consent.
+
 Retention of Your Personal Data
 
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
@@ -121,26 +120,37 @@ Other legal requirements
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
 Comply with a legal obligation
+
 Protect and defend the rights or property of the Company
+
 Prevent or investigate possible wrongdoing in connection with the Service
+
 Protect the personal safety of Users of the Service or the public
+
 Protect against legal liability
+
 Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is completely secure.
+
 While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
 Children's Privacy
+
 We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us.
+
 If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 Links to Other Websites
+
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
 Changes to this Privacy Policy
+
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
-By email: formulacarracegame@gmail.com
+
+If you have any questions about this Privacy Policy, You can contact us by email: formulacarracegame@gmail.com
