@@ -1,0 +1,30 @@
+FCR2025 UPDATE:
+
+-Community's Editor: Custom liveries, editable performance, edit data import/export, remade editor menu
+-8 new tracks: Shanghai, Jeddah, Miami, Imola, Zandvoort, Baku, Lusail, Las Vegas
+-Battery deployment modes and Overtake button (incl. Auto battery management option)
+-Fuel usage and engine modes
+-Car damage system
+-Active suspension
+-New setup options
+-New AI path on all tracks, done from real racing laps
+-Upgraded AI decision-making
+-New dynamic racing line 
+-Brake assist (full and semi)
+-Elevation changes on some tracks
+-New kerb types and track props (incl. updated models and textures)
+-New car model
+-New driver and helmet model
+-New garage model
+-FCR Credits purchasing mechanism
+-New engine sounds
+-New and updated on-track sound effects
+-New menus, inside a garage
+-Refreshed all in-game HUD
+-Simplified Spectator Mode commands
+-Target FPS settings
+-Sliders for sound settings
+-Race start time setting
+-Updated FCR Originals lineup and liveries
+-New playlist
+-Bugfix
