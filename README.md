@@ -7,5 +7,7 @@ Yearly major release (April 2021, April 2022, May 2023, May 2024, May 2025).
 
 One of the top formula racing simulators on mobile, having attracted over 50.000 downloads as of June 2025.
 
+Constantly maintained with regular in-season updates and supported by evergrowing communities of passionate fans on Instagram, YouTube and Discord.
+
 FCR been developed using Unity and C#.</br>
 Other software used includes Blender, GIMP and Audacity.
