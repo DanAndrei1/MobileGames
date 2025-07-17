@@ -1,4 +1,4 @@
-Privacy Policy for <b>FORMULA CAR RACE 2024</b><br></br>Last updated: May 20, 2024
+Privacy Policy for <b>FORMULA CAR RACE 2025</b><br></br>Last updated: July 17, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.<br></br>
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
